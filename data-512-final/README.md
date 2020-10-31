@@ -1,8 +1,8 @@
 
-# Human Centered Data Science ## (Data-512) Final Project
+# COVID-19 Demographic disparities 
 
 ## Purpose of project:
-The purpose of this project is to analyze demographic disparities in COVID-19 case surveillance data and understand how COVID-19 has impacted certain population groups harshly than others.  
+The purpose of this project is to study and analyze demographic disparities in COVID-19 case surveillance data and further understand varying degree of impact COVID-19 has on different population groups.  
 
 
 ## Analysis:  
