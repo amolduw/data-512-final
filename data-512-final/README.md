@@ -32,6 +32,7 @@ Terms of use for this data are available at Data.CDC.gov [COVID-19 Case Surveill
 
 ## Requirements
 [Python v3.x](https://www.python.org/)
+
 [Seaborn latest version](https://seaborn.pydata.org/index.html)
 
 ## Findings:
