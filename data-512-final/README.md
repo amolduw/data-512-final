@@ -7,10 +7,11 @@ The global health crisis of year 2020, COVID-19 is spreading human suffering, ki
 As a student of Human Centered Data Science, I am intrigued to study the COVID-19 cases and their impact on various segments of poulation and analzye if there are significant demographic disparities of this pandemic. It will be  revealing analysis project to study how COVID-19 impact is seen at varying levels between people of certain ethnicities, age groups, income groups and geographic locations. I am interested in analyzing COVID-19 cases data by applying Human Centered Data Science practices so as to come up better answers to find any significant disparities in COVID-19 impact. This analysis will be useful to raise awareness in society as well as governmental agencies so that appropriate actions can be taken to minimize the COVID-19 impact on all segments on society. 
 
 
-## Analysis:  
+## Research Questions:  
 This project focuses its analysis on COVID-19 case surveillance data to understand demographic disparities in COVID-19 cases and their varying degree of impact on different segments of society.
-- ?  
-- ?
+- Are people from specific race and ethnicity (combined) got COVID-19 infection at higher rate than others? 
+- Are people from specific age-group more prone to COVID-19 infection than others? 
+- Is COVID-19 death rate more prevalent in specific race and ethnicity (combined) than others? 
 
 
 ## Data Source
