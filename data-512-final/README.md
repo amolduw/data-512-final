@@ -24,11 +24,11 @@ Terms of Use for these datasets are documented in detail at [COVID-19 Case Surve
 
 ## Directory Structure
 ```bash
-├── plots
 ├── data
-├── hcds-final-project.ipynb
-├── ReadMe.md
+├── plots
 ├── LICENSE
+├── ReadMe.md
+├── hcds-final-project.ipynb
 
 ```
 
