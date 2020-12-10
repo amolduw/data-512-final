@@ -44,11 +44,9 @@ Adjusting the data for age differences in race groups widens the gap in the over
 The salient visuals revelaed through data analysis are included here for quick glance.
 
 ### COVID-19 cases distribution by Age-Group
-
 ![COVID-19 cases distribution by Age-Group](https://github.com/amolduw/data-512-final/blob/main/data-512-final/plots/COVID-19%20cases%20grouped%20by%20Age-Group.png)
 
 ### COVID-19 death rate distribution by Age-Group
-
 ![COVID-19 death rate distribution by Age-Group](https://github.com/amolduw/data-512-final/blob/main/data-512-final/plots/COVID-19%20death%20rate%20grouped%20by%20Age-Group.png)
 
 ### COVID-19 Age-unadjusted death percentage and Unweighted population distribution by Race and Ethnicity
