@@ -33,9 +33,7 @@ Terms of Use for these datasets are documented in detail at [COVID-19 Case Surve
 ```
 
 ## Requirements
-[Python v3.x](https://www.python.org/)
-
-[Seaborn latest version](https://seaborn.pydata.org/index.html)
+[Python v3.x](https://www.python.org/), [Seaborn latest version](https://seaborn.pydata.org/index.html)
 
 ## Findings:
 This human centered data science project helped me get answers to my research questions, discover surprising facts as well as validate some of the related work findings. The detailed multi-faceted analysis performed in this project has helped me learn that people in age-groups '20-29 Years', '30-39 Years' and '40-49 Years' are top three groups getting COVID-19 infection. This is probably because these age groups might have to go out more often than others and possibly not following social distancing guidelines because of lower chances of having serious health complications. Though these groups are high on infection rate, the mortality rate is much higher in older population. Especially '80+ Years', '70-79 Years' and '60-69 Years' are top 3 age-groups with highest COVID-19 mortality rate. This most probably happens due to co-morbidities and lower immunity in these age-groups. 
